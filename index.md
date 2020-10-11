@@ -1,14 +1,14 @@
 <style>
   .red-text {
-    color: red;
+    color: blue;
   }
 </style>
 
-<h2 class="red-text">CatPhotoApp</h2>
+<h2 class="blue-text">CatPhotoApp</h2>
 <main>
-  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
+  <p class="blue-text">Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://bit.ly/fcc-relaxing-cat" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQH52I3GGhZ0yA/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=OA3DyMD0WenuDA_qnwfpihhbIbiWQoKH4GjmX3ceQ98" alt="A picture of Andrew in his suit."></a>
 
   <div>
     <p>Things cats love:</p>
