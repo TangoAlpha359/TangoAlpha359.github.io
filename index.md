@@ -1,27 +1,28 @@
 <style>
+  background-color: black;
   .red-text {
-    color: blue;
+    color: red;
   }
 </style>
 
-<h2 class="blue-text">CatPhotoApp</h2>
+<h2 class="red-text">CatPhotoApp</h2>
 <main>
-  <p class="blue-text">Click here to view more <a href="#">cat photos</a>.</p>
+  <p class="red-text">Click here to view more <a href="#">cat photos</a>.</p>
 
   <a href="#"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQH52I3GGhZ0yA/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=OA3DyMD0WenuDA_qnwfpihhbIbiWQoKH4GjmX3ceQ98" alt="A picture of Andrew in his suit." width="200" height="200"></a>
 
   <div>
-    <p>Things cats love:</p>
+    <p>Things I love:</p>
     <ul>
-      <li>cat nip</li>
-      <li>laser pointers</li>
-      <li>lasagna</li>
+      <li>Sci-fi</li>
+      <li>Katsu</li>
+      <li>Traveling</li>
     </ul>
-    <p>Top 3 things cats hate:</p>
+    <p>Top 3 things I hate:</p>
     <ol>
-      <li>flea treatment</li>
-      <li>thunder</li>
-      <li>other cats</li>
+      <li>Unearned confidence</li>
+      <li>Lack of empathy</li>
+      <li>Making other people feel small</li>
     </ol>
   </div>
 
