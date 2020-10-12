@@ -1,13 +1,13 @@
 <style>
   text { background-color: blue; }
-  .red-text {
-    color: red;
+  .blue-text {
+    color: blue;
   }
 </style>
 
-<h2 class="red-text">CatPhotoApp</h2>
+<h2 class="blue-text">CatPhotoApp</h2>
 <main>
-  <p class="red-text">Click here to learn more <a href="https://www.linkedin.com/in/andrewsterrell/">about me</a>.</p>
+  <p class="blue-text">Click here to learn more <a href="https://www.linkedin.com/in/andrewsterrell/">about me</a>.</p>
 
   <a href="#"><img src="https://media-exp1.licdn.com/dms/image/C4E03AQH52I3GGhZ0yA/profile-displayphoto-shrink_400_400/0?e=1608163200&v=beta&t=OA3DyMD0WenuDA_qnwfpihhbIbiWQoKH4GjmX3ceQ98" alt="A picture of Andrew in his suit." width="200" height="200"></a>
 
