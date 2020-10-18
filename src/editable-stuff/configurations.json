@@ -5,7 +5,7 @@
   "FirstName": "Andrew",
   "MiddleName": "",
   "LastName": "Terrell",
-  "devDesc": "| International | Economist | Diplomat | Policy Specialist | Technologist | Engineer ",
+  "devDesc": "International | Economist | Diplomat | Policy Analyst | Technologist ",
   "icons": [
     {
       "id": 0,
@@ -36,6 +36,12 @@
       "image": "fa-twitter",
       "url": "https://www.twitter.com/andyterrellnc/",
       "style": "socialicons"
+    },
+    {
+      "id": 5,
+      "image": "fa-twitter",
+      "url": "https://www.twitter.com/andyterrellnc/",
+      "style": "socialicons"
     }
   ],
   "aboutHeading": "About Me",
@@ -43,7 +49,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "nemiadraconis",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "About X",
+  "aboutDescription": "Just your average adventurer out to bring 21st century tech to bear on 20th century problems.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "tangoalpha359",
