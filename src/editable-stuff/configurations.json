@@ -5,7 +5,8 @@
   "FirstName": "Andrew",
   "MiddleName": "",
   "LastName": "Terrell",
-  "devDesc": "International | Economist | Diplomat | Policy Analyst | Technologist ",
+  "devDesc": "International | Economist | Diplomat | Policy Analyst | Technologist
+  ",
   "icons": [
     {
       "id": 0,
@@ -39,8 +40,8 @@
     },
     {
       "id": 5,
-      "image": "fa-twitter",
-      "url": "https://www.twitter.com/andyterrellnc/",
+      "image": "fa-hmg",
+      "url": "https://www.gov.uk/government/people/andrew-terrell",
       "style": "socialicons"
     }
   ],
