@@ -12,6 +12,7 @@
   "dependencies": {
     "@popperjs/core": "^2.1.1",
     "axios": "^0.19.2",
+    "babel": "^6.23.0",
     "bootstrap": "^4.4.1",
     "gh-pages": "^2.2.0",
     "jquery": "^3.5.1",
@@ -47,5 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.1"
   }
 }
