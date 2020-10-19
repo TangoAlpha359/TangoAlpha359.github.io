@@ -21,26 +21,14 @@
     },
     {
       "id": 2,
-      "image": "fa-instagram",
-      "url": "https://www.instagram.com/nemiadraconis/",
-      "style": "socialicons"
-    },
-    {
-      "id": 3,
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/andrewsterrell/",
       "style": "socialicons"
     },
     {
-      "id": 4,
+      "id": 3,
       "image": "fa-twitter",
       "url": "https://www.twitter.com/andyterrellnc/",
-      "style": "socialicons"
-    },
-    {
-      "id": 5,
-      "image": "fa-twitter",
-      "url": "https://www.gov.uk/government/people/andrew-terrell",
       "style": "socialicons"
     }
   ],
@@ -49,7 +37,7 @@
   "instaLink": "https://www.instagram.com/",
   "instaUsername": "nemiadraconis",
   "instaQuerry": "/?__a=1",
-  "aboutDescription": "Just your average adventurer out to bring 21st century tech to bear on 20th century problems.",
+  "aboutDescription": "Just your average adventurer. Born in the American South, educated in Asia and Europe. Ten years of experience working for over 140 organizations in over a dozen countries.",
   "projectHeading": "Recent Projects",
   "gitHubLink": "https://api.github.com/users/",
   "gitHubUsername": "tangoalpha359",
