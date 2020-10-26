@@ -1,13 +1,20 @@
-# TangoAlpha359.github.io
+### Hi there, I'm Andrew. 👋
 
-- 🥀 Learning GraphQl
+## I'm a husband, international economist, data scientist, technologist, and generally a curious adventurer-type. 
 
-- Do HTML, CSS, Javascript, React and a few others.
+- 🌱 Learning GraphQl, Tensorflow, pretty much everything else. 
 
-- 🔭 Astronomy/Space Enthusiast
+- 💻 Do HTML, CSS, Javascript, React and a few others.
 
-- 🛸 Into High Energy Physics and Astrophysics, i love shotting stars too.
+- 🔭 Astronomy/Space Enthusiast.
 
-- I do ReactJS and JavaScript with *Redux - Context - Hooks* and a lot of love :heart:
+- 🛸 Into High Energy Physics and Astrophysics.
 
-- MERN stack Developer
+- 📈 Economist by training.
+
+- 📊 Data Science on the weekends.
+
+
+###
+(people) Languages - English, Japanese, Spanish
+(machine) Languages - HTML, CSS, C, Javascript, Python
