@@ -19,8 +19,7 @@ const Footer = () => {
       <p>
         <small className="text-muted">
           {" "}
-          Project code is open source. Feel free to make your own
-          version.
+          Project Iku^2
         </small>
       </p>
     </footer>
